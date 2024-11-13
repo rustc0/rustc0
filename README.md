@@ -1,4 +1,10 @@
-<h2 align="left">A CS enthusiast, you can call me rust!</h2>
+<h2 align="center">1337 student, you can call me rust!</h2>
+
+###
+
+<div align="center">
+  <img src="https://media1.tenor.com/m/3bTxZ4HdrysAAAAC/pixels-neon.gif" width="100%" alt="Banner GIF"/>
+</div>
 
 ###
 
@@ -23,11 +29,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
