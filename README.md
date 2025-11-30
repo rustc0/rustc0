@@ -1,4 +1,3 @@
-<h1 align="center">1337 student. Driven by curiosity!</h1>
 
 ```
 																		                  .----.
